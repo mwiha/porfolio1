@@ -57,9 +57,22 @@ html, body {
 }
 
 .about-section img{
-    height: 5g00px;
+    height: 500px;
     width: 400px;
     padding: 10%;
     float: left;
     margin-bottom: -19%;
 }
+
+.about-section row:after{
+        display: table;
+        clear: both;     
+}
+.column {
+    float: left;
+    width: 50%;
+    height: 400px;
+    margin-bottom: -19%;
+   
+  }
+  
