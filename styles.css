@@ -28,11 +28,23 @@ html, body {
     width: 100%;
     
 }
-img{
+.home-section img{
     border-radius:50%;
     margin: 0 auto;
     height: 400px;
     width: 400px;
     display: block;
     padding: 5%;
+}
+
+.home-section h1{
+    display: flex;
+}
+
+.home-section  p{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: large;
+    color: blue;
 }
