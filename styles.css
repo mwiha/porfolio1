@@ -39,12 +39,27 @@ html, body {
 
 .home-section h1{
     display: flex;
+    justify-content: center;
 }
 
 .home-section  p{
     display: flex;
     justify-content: center;
     font-style: italic;
-    font-size: large;
+    font-size: 30px;
     color: blue;
+}
+
+.about-section h2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.about-section img{
+    height: 5g00px;
+    width: 400px;
+    padding: 10%;
+    float: left;
+    margin-bottom: -19%;
 }
