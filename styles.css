@@ -50,13 +50,14 @@ html, body {
     color: blue;
 }
 
-.about-section h2{
+.about-section h2,p{
     display: flex;
     text-align: center;
     justify-content: center;
 }
-
-
+.about-section h2{
+    font-size: 30px;
 }
-
-  
+.about-section p{
+    font-size: 30px;
+}
