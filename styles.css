@@ -34,7 +34,7 @@ html, body {
     height: 400px;
     width: 400px;
     display: block;
-    padding: 5%;
+    padding: 2%;
 }
 
 #home h1{
@@ -47,14 +47,12 @@ html, body {
     display: flex;
     justify-content: center;
     font-style: italic;
-    font-size: 30px;
+    font-size: 20px;
     color:white;
 }
 
 #about h2,p{
-    display: flex;
     text-align: center;
-    justify-content: center;
 }
 #about h2{
     font-size: 50px;
@@ -96,10 +94,10 @@ html, body {
     justify-content: center;
 }
 #contacts h4{
-    font-size: 50px;
+    font-size: 40px;
 }
 #contacts p{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 input[type=text], select, textarea {
@@ -107,7 +105,7 @@ input[type=text], select, textarea {
     padding: 12px;
     border: 1px solid #ccc;
     margin-top: 6px;
-    margin-bottom: 16px;
+    margin-bottom: 10px;
     resize: vertical;
   }
   
@@ -137,14 +135,12 @@ input[type=text], select, textarea {
   }
 
   #footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+   width: 100%;
     background-color:blue;
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
+    padding: 10px;
  }
 
   
