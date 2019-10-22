@@ -37,12 +37,12 @@ html, body {
     padding: 5%;
 }
 
-.home-section h1{
+#home h1{
     display: flex;
     justify-content: center;
 }
 
-.home-section  p{
+#home  p{
     display: flex;
     justify-content: center;
     font-style: italic;
@@ -50,37 +50,37 @@ html, body {
     color: blue;
 }
 
-.about-section h2,p{
+#about h2,p{
     display: flex;
     text-align: center;
     justify-content: center;
 }
-.about-section h2{
+#about h2{
     font-size: 30px;
 }
-.about-section p{
+#about p{
     font-size: 30px;
 }
 
-.project-section img{
+#project img{
     border-radius: 150px;
     height: 300px;
     width: 300px;
 }
 
-.project-section{
+#projects{
     border-top: 50%;
     text-align: center;
     justify-content: center
 
 }
 
-.skills-section ol li {
+#skills ol li {
     text-align: center;
     font-size: 40px;
 }
 
-.conctacts-section{
+#conctacts{
     text-align: center;
 }
 .midsection {
