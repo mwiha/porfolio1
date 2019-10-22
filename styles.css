@@ -31,7 +31,7 @@ html, body {
 .home-section img{
     border-radius:50%;
     margin: 0 auto;
-    height: 400px;
+    height: 500px;
     width: 400px;
     display: block;
     padding: 5%;
@@ -73,4 +73,16 @@ html, body {
     text-align: center;
     justify-content: center
 
+}
+
+.skills-section{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
