@@ -96,6 +96,9 @@ html, body {
 #contacts h4{
     font-size: 50px;
 }
+#contacts p{
+    font-size: 30px;
+}
 
 input[type=text], select, textarea {
     width: 100%;
