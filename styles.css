@@ -67,12 +67,18 @@ html, body {
     height: 300px;
     width: 300px;
 }
+#projects h3{
+    font-size: 50px;
+}
 
 #projects{
     border-top: 50%;
     text-align: center;
     justify-content: center
 
+}
+#projects p{
+    font-size: 40px;
 }
 
 #skills ol li {
