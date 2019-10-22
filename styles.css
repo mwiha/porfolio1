@@ -76,21 +76,16 @@ html, body {
 }
 
 .skills-section ol li {
-    justify-content: center;
-    display: flex;
     text-align: center;
-    margin: 0 auto;
+    font-size: 40px;
 }
 
-/* body{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-} */
 .conctacts-section{
-    justify-content: center;
-    display: flex;
     text-align: center;
+}
+.midsection {
+    display: flex;
+    justify-content: center;
 }
 
 input[type=text], select, textarea {
