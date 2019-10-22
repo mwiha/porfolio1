@@ -12,3 +12,6 @@
 
 ## Live link
 https://mwiha.github.io/porfolio1/
+
+## License
+copyright(c)2019 Alice Mwihaki
