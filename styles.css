@@ -75,17 +75,18 @@ html, body {
 
 }
 
-.skills-section{
+.skills-section ol li {
     justify-content: center;
     display: flex;
     text-align: center;
+    margin: 0 auto;
 }
 
-body{
+/* body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
+} */
 .conctacts-section{
     justify-content: center;
     display: flex;
@@ -125,4 +126,5 @@ input[type=text], select, textarea {
     display: table;
     clear: both;
   }
+
   
