@@ -68,8 +68,9 @@ html, body {
     width: 300px;
 }
 
-.project-section h3,p{
-    display: flex;
+.project-section{
+    border-top: 50%;
     text-align: center;
-    justify-content: center;
+    justify-content: center
+
 }
