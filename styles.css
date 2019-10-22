@@ -93,6 +93,9 @@ html, body {
     display: flex;
     justify-content: center;
 }
+#contacts h4{
+    font-size: 50px;
+}
 
 input[type=text], select, textarea {
     width: 100%;
