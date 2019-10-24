@@ -1,10 +1,11 @@
-# portfolio
+# My Portfolio
 
 ## Author
 - Alice Mwihaki
 
 ## Description of the projects
-- This is my portfolio just explaining about me.
+- This is my portfolio website that mainly describes the projects i have done and my skills.
+
 
 ## set-up instructions
 - Must have internet connection.
